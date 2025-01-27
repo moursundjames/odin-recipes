@@ -1,0 +1,16 @@
+/* style.css */
+
+* {
+    color: white;
+    background-color: black;
+  }
+
+  h1 {
+    color: purple;
+    font-family: "Comic Sans", serif;
+    text-decoration: underline;
+  }
+  p {
+    color: red;
+  }
+  
